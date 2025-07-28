@@ -1,4 +1,3 @@
-function App() {
-  return <h1>Bienvenue sur EFFISUIVI</h1>
+export default function App() {
+  return <h1>Bienvenue dans EFFISUIVI</h1>;
 }
-export default App
